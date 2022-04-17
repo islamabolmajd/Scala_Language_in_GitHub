@@ -15,8 +15,9 @@ Project Organization
     ├── LICENSE
     ├── README.md   
     ├── data
-    │   ├── TestSet.csv
-    │   └── TrainingSet.csv
-    ├── notebooks
-    │   └── 1.0-full-model.ipynb
+    │   ├── pullfiles.csv
+    |   ├── pulls_2011-2013.csv
+        ├── pulls_2014-2018.csv
+    │   └── pulls.csv
+    ├── notebook.ipynb
     ├── requirements.txt
