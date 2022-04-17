@@ -8,3 +8,15 @@ To run the notebook, first install the dependencies with:
 Then run:
 
     jupyter notebook notebook.ipynb
+    
+Project Organization
+------------
+
+    ├── LICENSE
+    ├── README.md   
+    ├── data
+    │   ├── TestSet.csv
+    │   └── TrainingSet.csv
+    ├── notebooks
+    │   └── 1.0-full-model.ipynb
+    ├── requirements.txt
