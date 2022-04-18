@@ -22,3 +22,4 @@ Project Organization
     ├── notebook.ipynb
     ├── requirements.txt
 - analysing top contributers
+- the contribution performance in the last decade
